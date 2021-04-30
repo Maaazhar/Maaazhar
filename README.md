@@ -6,7 +6,7 @@ I'm Mazharul Islam, I'm a `Front-End Web Developer` based in Bangladesh and I'm 
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ping me about **design**, **development** 
  <!-- and **anime** :stuck_out_tongue_closed_eyes: -->
-- 📫 Reach me: [Facebook](https://www.facebook.com/maaazhaaar/), [Email](mailto:mailformazhar@gmail.com/)
+- 📫 Reach me: [Linked In](https://www.linkedin.com/in/md-mazharul-islam-225064183/),  [Facebook](https://www.facebook.com/maaazhaaar/), [Email](mailto:mailformazhar@gmail.com/)
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
 ## Technologies & Tools
@@ -24,6 +24,6 @@ I'm Mazharul Islam, I'm a `Front-End Web Developer` based in Bangladesh and I'm 
 
 ## Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaazhar&layout=compact&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaazhar&layout=compact&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
 
-[![Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaazhar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
+[![Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaazhar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
