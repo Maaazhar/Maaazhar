@@ -1,12 +1,12 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="30px">
-I'm Mazharul Islam, I'm a `Front-End Web Developer` based in United Arab Emirats and I'm learning and building new things everyday.
+I'm Mazharul Islam, I'm a `Front-End Web Developer` based in United Arab Emirats, I'm learning and building new things everyday.
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `react.js`, `node.js`, `express.js`, `.svg`, `.c`, `.c++`, `.psd`, `.ai`
 <!-- - 🌍  -->
 - 🌱 I’m currently working as **Front-End Web Developer**
 - 💬 Ping me about **web-design**, **web-development** 
  <!-- and **anime** :stuck_out_tongue_closed_eyes: -->
-- 📫 Reach me: [Linked In](https://www.linkedin.com/in/md-mazharul-islam-225064183/),  [Facebook](https://www.facebook.com/maaazhaaar/), [Email](mailto:mailformazhar@gmail.com/)
+- 📫 Reach me: [Linked In](https://www.linkedin.com/in/maaazhar/),  [Facebook](https://www.facebook.com/maaazhaaar/), [Email](mailto:mailformazhar@gmail.com/), [Portfolio](https://mazharul-islam.web.app//)
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
 ## Technologies & Tools
