@@ -6,7 +6,7 @@ I'm Mazharul Islam, I'm a `Front-End Web Developer` based in United Arab Emirats
 - 🌱 I’m currently working as **Front-End Web Developer**
 - 💬 Ping me about **web-design**, **web-development** 
  <!-- and **anime** :stuck_out_tongue_closed_eyes: -->
-- 📫 Reach me: [Linked In](https://www.linkedin.com/in/maaazhar/),  [Facebook](https://www.facebook.com/maaazhaaar/), [Email](mailto:mailformazhar@gmail.com/), [Portfolio](https://mazharul-islam.web.app//)
+- 📫 Reach me: [Linked In](https://www.linkedin.com/in/maaazhar/), [Portfolio](https://mazharul-islam.web.app/), [Email](mailto:mailformazhar@gmail.com/),  [Facebook](https://www.facebook.com/maaazhaaar/)
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
 ## Technologies & Tools
