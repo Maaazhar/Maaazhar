@@ -13,7 +13,7 @@ I'm Mazharul Islam, I'm a `Front-End Web Developer` based in United Arab Emirats
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual%20studio&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=brave&logoColor=white&color=628FDB)
+![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=chrome&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=628FDB)
