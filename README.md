@@ -1,14 +1,16 @@
-## <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="30px"> Hello, there! I'm, # Mazharul Islam,
-I am an `experienced web developer`, based in United Arab Emirats, 
-I craft website with `intuitive` and `engaging` user interfaces, integrate functionality with seamless user experiences.
-Also I'm learning and building new things everyday.
+# <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="30px"> Hello, there! I'm Mazharul Islam,
+> I am an `experienced web developer`, based in United Arab Emirats, 
+<br>I craft website with `intuitive` and `engaging` user interfaces, integrate functionality with seamless user experiences.
+<br>Also I'm learning 📚 and building 🛠️ new things everyday.
+> 
 ## BIO
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `react.js`, `Next.js`, `typeScrip`, `node.js`, `express.js`, `git`, `gitHub`, `VS code`, `chromeDevTool`, `figma`, `firebase`, `netlify`, `vercel`,`.js`, `.jsx`, `.ts`,  `.svg`, `.fig` `.c`, `.c++`, `.psd`, `.ai`
 <!-- - 🌍  -->
-- 🌱 I’m currently working as **Web Developer**
+- 👨🏻‍💻 I’m currently working as **Web Developer**
 - 💬 Ping me about **web-design**, **web-development** 
  <!-- and **anime** :stuck_out_tongue_closed_eyes: -->
-- 📫 Reach me: [Linked In](https://www.linkedin.com/in/maaazhar/),
+- 📫 Reach me at:
+- [Linked In](https://www.linkedin.com/in/maaazhar/),
 - [Portfolio](https://mazharul-islam.web.app/),
 - [Email](mailto:mailformazhar@gmail.com/),
 - [Facebook](https://www.facebook.com/maaazhaaar/)
