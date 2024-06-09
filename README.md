@@ -1,19 +1,21 @@
-# <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="30px"> Hello, there! I'm Mazharul Islam,
-> I am an `experienced web developer`, based in United Arab Emirats, 
-<br>I craft website with `intuitive` and `engaging` user interfaces, integrate functionality with seamless user experiences.
-<br>Also I'm learning 📚 and building 🛠️ new things everyday.
+# <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="30px"> Hello there, I'm Mazharul Islam,
+> I am an experienced Web Developer, I bring designs to life, crafting interactive and visually engaging user interfaces that seamlessly blend in form with functionality. Utilizing my expertise in HTML, CSS, JavaScript, and ReactJS.<br>
+I ensure websites and web applications not only look stunning but also deliver intuitive and responsive experiences across various devices and browsers. From concept to execution, I strive to enhance user satisfaction by continuously refining and optimizing the digital journey. I ensure that every aspect of a website or application aligns with both aesthetic goals and usability requirements.<br>
+Beyond just coding, I continually explore emerging technologies and best practices to enhance performance, accessibility, and user experience.
+Whether it is optimizing for speed, ensuring cross-browser compatibility, or integrating cutting-edge features, my passion lies in delivering polished, user-centric solutions that elevate the digital landscape and leave a lasting impression on visitors.<br>
+Also I'm learning 📚 and building 🛠️ new things everyday.
 > 
 ## BIO
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `react.js`, `Next.js`, `typeScrip`, `node.js`, `express.js`, `git`, `gitHub`, `VS code`, `chromeDevTool`, `figma`, `firebase`, `netlify`, `vercel`,`.js`, `.jsx`, `.ts`,  `.svg`, `.fig` `.c`, `.c++`, `.psd`, `.ai`
+- ⚙️ I use daily:<br> `.html`,  `.css`,  `.js`,  `react.js`,  `Next.js`,  `typeScrip`,  `node.js`,  `express.js`,  `git`,  `gitHub`,  `VS code`,  `chromeDevTool`,  `figma`,  `firebase`,  `netlify`,  `vercel`,  `.js`,  `.jsx`,  `.ts`,   `.svg`,  `.fig`,  `.c`,  `.c++`,  `.psd`,  `.ai`
 <!-- - 🌍  -->
 - 👨🏻‍💻 I’m currently working as **Web Developer**
 - 💬 Ping me about **web-design**, **web-development** 
  <!-- and **anime** :stuck_out_tongue_closed_eyes: -->
 - 📫 Reach me at:
-- [Linked In](https://www.linkedin.com/in/maaazhar/),
-- [Portfolio](https://mazharul-islam.web.app/),
-- [Email](mailto:mailformazhar@gmail.com/),
-- [Facebook](https://www.facebook.com/maaazhaaar/)
+<br>  [Linked In](https://www.linkedin.com/in/maaazhar/),
+<br>  [Email](mailto:mailformazhar@gmail.com/),
+<br>  [Portfolio](https://mazharul-islam.web.app/),
+<br>  [Facebook](https://www.facebook.com/maaazhaaar/)
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
 ## Technologies & Tools
@@ -30,7 +32,6 @@
 ![](https://img.shields.io/badge/Tool-Adobe&nbsp;XD-informational?style=flat&logo=adobe%20xd&logoColor=white&color=628FDB)
 
 ## Overview
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaazhar&layout=compact&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
 
 [![Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maaazhar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Maaazhar/github-readme-stats)
