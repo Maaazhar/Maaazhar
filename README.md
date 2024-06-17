@@ -11,7 +11,7 @@
 Also I'm learning and building new things everyday.
 > 
 ## BIO
-- ⚙️ I use daily:<br> `.html`,  `.css`,  `.js`,  `react.js`,  `Next.js`,  `typeScrip`,  `node.js`,  `express.js`,  `git`,  `gitHub`,  `VS code`,  `chromeDevTool`,  `figma`,  `firebase`,  `netlify`,  `vercel`,  `.js`,  `.jsx`,  `.ts`,   `.svg`,  `.fig`,  `.c`,  `.c++`,  `.psd`,  `.ai`
+- ⚙️ I use daily:<br> `.html`,  `.css`,  `.js`,  `react.js`,  `.git`,  `Next.js`,  `typeScrip`,  `node.js`,  `express.js`,  `git`,  `gitHub`,  `VS code`,  `chromeDevTool`,  `figma`,  `firebase`,  `netlify`,  `vercel`,  `.js`,  `.jsx`,  `.ts`,   `.svg`,  `.fig`,  `.c`,  `.c++`,  `.psd`,  `.ai`
 <!-- - 🌍  -->
 - 👨🏻‍💻 I’m currently working as **Web Developer**
 - 💬 Ping me about **web-design**, **web-development** 
