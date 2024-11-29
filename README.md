@@ -1,22 +1,13 @@
 # <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="30px"> Hello there, I'm Mazharul Islam,
 > 💼 📚 💪<br>
-
 I am an experienced Web Developer, I bring designs to life, crafting interactive and visually engaging user interfaces that seamlessly blend in form with functionality. Utilizing my expertise in HTML, CSS, JavaScript, and ReactJS.<br>
-
 > 👍 🚀 🤩<br>
-
 I ensure websites and web applications not only look stunning but also deliver intuitive and responsive experiences across various devices and browsers. From concept to execution, I strive to enhance user satisfaction by continuously refining and optimizing the digital journey. I ensure that every aspect of a website or application aligns with both aesthetic goals and usability requirements.<br>
-
 > 🕵 🌟 🌎<br>
-
 Beyond just coding, I continuously explore emerging technologies and best practices to enhance performance, accessibility, and the user experience.<br>
-
 > 🖥️ 💻 📱<br>
-
 Whether it is optimizing for speed, ensuring cross-browser compatibility, or integrating cutting-edge features, my passion lies in delivering polished, user-centric solutions that elevate the digital landscape and leave a lasting impression on visitors.<br>
-
 > 📚 🛠️ 👩🏻‍💻<br>
-
 Also I'm learning and building new things everyday.
 
 ## BIO
